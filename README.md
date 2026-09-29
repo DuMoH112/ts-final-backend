@@ -7,7 +7,7 @@
 <table>
     <tr>
         <td>Token</td>
-        <td>ImFkOGUwODA0MGQyNWMxY2E5ZTliMWEzZmQ2YzNjYzEwMTE3OThmYjIi.Xl9zsQ.sfwq6sx8a5FDqbc8_9Fg8CVEewY</td>
+        <td>YOUR_API_TOKEN</td>
     </tr>
     <tr>
         <td>UserToken</td>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td>url</td>
-        <td>http://178.205.101.202:81</td>
+        <td>http://localhost:81</td>
     </tr>
 </table>
 
@@ -43,7 +43,7 @@
 ```json
 // Все ок
 {
-    "UserToken": "IJP98hbvVSAqDcGzWbhpCAPF-TaeI6_qjFldanPv-etW2tOUAfG3IFnJqwuTWIT6K8HQM0rjW14l28KewX3UfEGPWSDrZ9QwBzv-RgWLSn3RrLR47iOX6qh0zaf6ChF3X-h7DiB5tXZWi3cHfmGLGUVWE_2Paaoyvo-s9Tj8Nzelt82Fz37dPczruTYe873LrmMChM0qeDOM8mVosVSx06DZlyNKZ37oqEIbKKdxOZTd_aAiTHnU5PXbcBjNLImwdzW1x7U7mewSFzzpmuUKRBccJWxZsJywGatjT9DMHG_3OwTw2A-QkU-lNrk-SlTGKH8d9ehthOfGQJUWN7aEKg",
+    "UserToken": "USER_TOKEN",
     "role": 2
 }
 // Ошибка пользователя
